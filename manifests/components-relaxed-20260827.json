@@ -1,0 +1,106 @@
+[
+  {
+    "offer_id": "064298",
+    "mpn": "Biostar H610MHC 2.0",
+    "file": "assets/064298/064298.jpg",
+    "sha256": "d2a9333aa632c936ecfc788534834585cad6df86e8484f378c0adefd041f1434",
+    "source_url": "https://static.nix.ru/images/biostar-h610mhc-2.0-9081542254.jpg?good_id=908154&width=500&height=500&view_id=2254",
+    "source_product_url": "https://www.nix.ru/autocatalog/motherboards_biostar/BioStar-H610MHC-20-RTL-LGA1700-H610-PCI-E-Dsub-plus-HDMI-GbLAN-SATA-MicroATX-2DDR4_908154.html"
+  },
+  {
+    "offer_id": "064980",
+    "mpn": "Asus Prime H610M-K D4",
+    "file": "assets/064980/064980.jpg",
+    "sha256": "3bcc74bc7a9e9a2e860e421cd61e73011ac9c8139a93767fcbddf4e1b7deb72c",
+    "source_url": "https://static.nix.ru/images/asus-prime-h610m-k-d4-5809382254.jpg?good_id=580938&width=500&height=500&view_id=2254",
+    "source_product_url": "https://www.nix.ru/autocatalog/motherboards_asustek/ASUS-PRIME-H610M-K-D4-RTL-LGA1700-H610-PCI-E-Dsub-plus-HDMI-GbLAN-SATA-MicroATX-2DDR4_580938.html"
+  },
+  {
+    "offer_id": "045234",
+    "mpn": "CM8071504821015",
+    "file": "assets/045234/045234.jpg",
+    "sha256": "69a92f488dc7ecc1b29b83fa249c56523a969554db36c496faeb96a48f63f806",
+    "source_url": "https://cdn.kns.ru/linkpics/intel-core-i5-14600k-oem_kod_1049099.jpg",
+    "source_product_url": "https://www.kns.ru/product/processor-intel-core-i5-14600k-oem/"
+  },
+  {
+    "offer_id": "059936",
+    "mpn": "100-000000255",
+    "file": "assets/059936/059936.jpg",
+    "sha256": "5e25fbbe7a8d85676cefc0131933863b71d107ef9e4b4ed720c9599e874de0f3",
+    "source_url": "https://cdn.kns.ru/linkpics/amd-ryzen-5-pro-5650g-oem-0-v3.jpg",
+    "source_product_url": "https://www.kns.ru/product/processor-amd-ryzen-5-pro-5650g-oem/"
+  },
+  {
+    "offer_id": "064450",
+    "mpn": "100-000001404",
+    "file": "assets/064450/064450.jpg",
+    "sha256": "fbb134f0aa4f49e89544e02db93bcb29c44c4ab1de5a3acdc710077e14a57bdc",
+    "source_url": "https://cdn.kns.ru/linkpics/amd-ryzen-7-9700x-oem_kod_1049208.jpg",
+    "source_product_url": "https://www.kns.ru/product/processor-amd-ryzen-7-9700x-oem/"
+  },
+  {
+    "offer_id": "042469",
+    "mpn": "WD64PURZ",
+    "file": "assets/042469/042469.jpg",
+    "sha256": "932e9825d40edfb90be63c20e80e65c55e6e7f1f7f265ab109a1e914cc8c60a8",
+    "source_url": "https://cdn.kns.ru/linkpics/wd-purple-6tb-wd64purz_kod_1046334.jpg",
+    "source_product_url": "https://www.kns.ru/product/zhestkii-disk-wd-purple-6tb-wd64purz/"
+  },
+  {
+    "offer_id": "063050",
+    "mpn": "MD10ADA800V",
+    "file": "assets/063050/063050.jpg",
+    "sha256": "a3397c81f817c476ed22e056873bbef6cf8763b96566e8564e00b4790c1445e6",
+    "source_url": "https://cdn.kns.ru/linkpics/toshiba-s300-pro-surveillance-8tb-md10ada800v_kod_994555.jpg",
+    "source_product_url": "https://www.kns.ru/product/zhestkii-disk-toshiba-s300-pro-surveillance-8tb-md10ada800v/"
+  },
+  {
+    "offer_id": "065275",
+    "mpn": "RTX 5050 8G SHADOW 2X OC",
+    "file": "assets/065275/065275.jpg",
+    "sha256": "c16ad479447bdfbfe4b7c7f55b8f8a45f98ff21cbd3f3954340c99064a835e34",
+    "source_url": "https://cdn.kns.ru/linkpics/msi-nvidia-geforce-rtx-5050-8g-shadow-2x-oc_kod_997728.jpg",
+    "source_product_url": "https://www.kns.ru/product/videokarta-msi-nvidia-geforce-rtx-5050-8g-shadow-2x-oc/"
+  },
+  {
+    "offer_id": "064371",
+    "mpn": "NE75060U19P1-GB2063M",
+    "file": "assets/064371/064371.jpg",
+    "sha256": "495d69d406e08ddd2307a153c05cda4435f577e721d747444832bf4e5be48148",
+    "source_url": "https://cdn.kns.ru/linkpics/palit-nvidia-geforce-rtx-5060-white-oc-8gb-ne75060u19p1-gb2063m_kod_1003400.jpg",
+    "source_product_url": "https://www.kns.ru/product/videokarta-palit-nvidia-geforce-rtx-5060-white-oc-8gb-ne75060u19p1-gb2063m/"
+  },
+  {
+    "offer_id": "064845",
+    "mpn": "RTX 5060 Ti 8G VENTUS 3X OC",
+    "file": "assets/064845/064845.jpg",
+    "sha256": "9fffc2c50c9d1f0c4b43085c714624e37659a4ef4801ba34b8eb97034de6d160",
+    "source_url": "https://cdn.kns.ru/linkpics/msi-nvidia-geforce-rtx-5060-ti-8g-ventus-3x-oc_kod_983302.jpg",
+    "source_product_url": "https://www.kns.ru/product/videokarta-msi-nvidia-geforce-rtx-5060-ti-8g-ventus-3x-oc/"
+  },
+  {
+    "offer_id": "065270",
+    "mpn": "DUAL-RTX5060TI-O16G",
+    "file": "assets/065270/065270.jpg",
+    "sha256": "55fef660ecd54e70337e7bfcfb2673936e04a1c5e24f488b5b1277679d0f4fab",
+    "source_url": "https://cdn.kns.ru/linkpics/asus-nvidia-geforce-rtx-5060-ti-16gb-dual-rtx5060ti-o16g_kod_981496.jpg",
+    "source_product_url": "https://www.kns.ru/product/videokarta-asus-nvidia-geforce-rtx-5060-ti-16gb-dual-rtx5060ti-o16g/"
+  },
+  {
+    "offer_id": "065337",
+    "mpn": "RTX 5060 TI 16G GAMING OC",
+    "file": "assets/065337/065337.jpg",
+    "sha256": "a55e08c47fffc83d7fd6fb743fda225bb555e728696a2885d58db54852eb8ea9",
+    "source_url": "https://cdn.kns.ru/linkpics/msi-nvidia-geforce-rtx-5060-ti-16g-gaming-oc_kod_982907.jpg",
+    "source_product_url": "https://www.kns.ru/product/videokarta-msi-nvidia-geforce-rtx-5060-ti-16g-gaming-oc/"
+  },
+  {
+    "offer_id": "065102",
+    "mpn": "PRIME-RX9070-O16G-EVO",
+    "file": "assets/065102/065102.jpg",
+    "sha256": "d5caddb22ef4bef1e010802e2dd83460ae3f6e1cb9b0f5bc0c7167d63829b9f4",
+    "source_url": "https://cdn.kns.ru/linkpics/asus-amd-radeon-rx-9070-16gb-prime-rx9070-o16g-evo_kod_1018450.jpg",
+    "source_product_url": "https://www.kns.ru/product/videokarta-asus-amd-radeon-rx-9070-16gb-prime-rx9070-o16g-evo/"
+  }
+]
