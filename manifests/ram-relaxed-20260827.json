@@ -1,0 +1,134 @@
+{
+  "schema_version": "1.0",
+  "source_ledger_sha256": "0ba4fff691dd4d1706a4f7cb650f342d97b08abe4abc04a80881128a1b1195e0",
+  "items": [
+    {
+      "offer_id": "064478",
+      "mpn": "QUM4U-8G2666P19",
+      "file": "assets/064478/064478-04.jpg",
+      "sha256": "0aba1a392f293ffd1c5b0a3689a312c1297deacb72c97337b1be571557189fee",
+      "source_url": "https://static.nix.ru/images/qumo-qum4u-8g2666p19-3668142248.jpg?good_id=366814&width=500&height=500&view_id=2248",
+      "source_page_url": "https://www.nix.ru/autocatalog/memory_modules_qumo/QUMO-QUM4U-8G2666P19-DDR4-DIMM-8Gb-PC4-21300-CL19_366814.html"
+    },
+    {
+      "offer_id": "034001",
+      "mpn": "AD4U32008G22-SGN",
+      "file": "assets/034001/034001-05.jpg",
+      "sha256": "087d7b0dac5726431985a6c1689424902729c115f84a4d2ad7ad3eddf41b579e",
+      "source_url": "https://static.nix.ru/images/adata-ad4u32008g22-sgn-6482633159.jpg?good_id=648263&width=500&height=500&view_id=3159",
+      "source_page_url": "https://www.nix.ru/autocatalog/memory_modules_ADATA/ADATA-AD4U32008G22-SGN-DDR4-DIMM-8Gb-PC4-25600_648263.html"
+    },
+    {
+      "offer_id": "039331",
+      "mpn": "R948G3206U2S-U",
+      "file": "assets/039331/039331-05.jpg",
+      "sha256": "203fae3094f0bcbfc8acb5a88d311321081550830ffe44130b4fdb2d762574cb",
+      "source_url": "https://static.nix.ru/images/amd-r948g3206u2s-u-4391833159.jpg?good_id=439183&width=500&height=500&view_id=3159",
+      "source_page_url": "https://www.nix.ru/autocatalog/memory_modules_AMD/AMD-RADEON-R948G3206U2S-U-O-DDR4-DIMM-8Gb-PC4-25600_439183.html"
+    },
+    {
+      "offer_id": "065131",
+      "mpn": "FL3200D4U22-8G",
+      "file": "assets/065131/065131-04.jpg",
+      "sha256": "a5069cc4fc303d47deba5a71fd9bd23f77571c0b50c20147b04202630b0b0b28",
+      "source_url": "https://static.nix.ru/images/foxline-fl3200d4u22-8g-4984123159.jpg?good_id=498412&width=500&height=500&view_id=3159",
+      "source_page_url": "https://www.nix.ru/autocatalog/memory_modules_Foxline/Foxline-FL3200D4U22-8G-DDR4-DIMM-8Gb-PC4-25600-CL22_498412.html"
+    },
+    {
+      "offer_id": "064793",
+      "mpn": "DGMAD42666016D",
+      "file": "assets/064793/064793-04.jpg",
+      "sha256": "001287b7af5e408213dec71a4d3f99b92ee7c9583da360a9382fa82fc2427965",
+      "source_url": "https://static.nix.ru/images/digma-dgmad42666016d-7784392248.jpg?good_id=778439&width=500&height=500&view_id=2248",
+      "source_page_url": "https://www.nix.ru/autocatalog/memory_modules_brandname/Digma-DGMAD42666016D-DDR4-DIMM-16Gb-PC4-21300-CL19_778439.html"
+    },
+    {
+      "offer_id": "035296",
+      "mpn": "R9416G3206U2S-U",
+      "file": "assets/035296/035296-04.jpg",
+      "sha256": "e9119a3c05da0f0cdc1bb3e55459954fe36e6ef345ab54d4d254b652f1c5a0d9",
+      "source_url": "https://static.nix.ru/images/amd-r9-416g3206u2s-u-5034423159.jpg?good_id=503442&width=500&height=500&view_id=3159",
+      "source_page_url": "https://www.nix.ru/autocatalog/memory_modules_AMD/AMD-RADEON-R9416G3206U2S-U-0-DDR4-DIMM-16Gb-PC4-25600_503442.html"
+    },
+    {
+      "offer_id": "065018",
+      "mpn": "FL3200D4U22-16G",
+      "file": "assets/065018/065018-04.jpg",
+      "sha256": "1c5ffd276f0c38bc8a2cfeef1132ed626a9065f2dea7a7c5f3ddeebf79a3fe70",
+      "source_url": "https://static.nix.ru/images/foxline-fl3200d4u22-16g-5019733159.jpg?good_id=501973&width=500&height=500&view_id=3159",
+      "source_page_url": "https://www.nix.ru/autocatalog/memory_modules_Foxline/Foxline-FL3200D4U22-16G-DDR4-DIMM-16Gb-PC4-25600-CL22_501973.html"
+    },
+    {
+      "offer_id": "063909",
+      "mpn": "KS3200D4P13516G",
+      "file": "assets/063909/063909-06.jpg",
+      "sha256": "fa7d06cea55dbf88bea5b7a3f04997c13bff079489f60f390e0e79d3102f9c75",
+      "source_url": "https://static.nix.ru/images/kingspec-ks3200d4p13516g-7111383159.jpg?good_id=711138&width=500&height=500&view_id=3159",
+      "source_page_url": "https://www.nix.ru/autocatalog/memory_modules_brandname/KingSpec-KS3200D4P13516G-DDR4-DIMM-16Gb-PC4-25600_711138.html"
+    },
+    {
+      "offer_id": "035278",
+      "mpn": "NTSWD4P32SP-16W",
+      "file": "assets/035278/035278-06.jpg",
+      "sha256": "c22f1977c0f605881f1206a947b701d24736b1bf5455c2a223c54e29cb5903bd",
+      "source_url": "https://static.nix.ru/images/netac-ntswd4p32sp-16w-6794613159.jpg?good_id=679461&width=500&height=500&view_id=3159",
+      "source_page_url": "https://www.nix.ru/autocatalog/memory_modules_netac/Netac-Shadow-II-NTSWD4P32SP-16W-DDR4-DIMM-16Gb-PC4-25600-CL16_679461.html"
+    },
+    {
+      "offer_id": "065283",
+      "mpn": "PVV532G560C36K",
+      "file": "assets/065283/065283-06.jpg",
+      "sha256": "8736cb053531335d9d4b6a86b2d25bb6e15162d400d1d5f42b6f96ff6af3a28d",
+      "source_url": "https://static.nix.ru/images/patriot-pvv532g560c36k-6910923159.jpg?good_id=691092&width=500&height=500&view_id=3159",
+      "source_page_url": "https://www.nix.ru/autocatalog/memory_modules_patriot/Patriot-Viper-Venom-PVV532G560C36K-DDR5-DIMM-32Gb-KIT-2-16Gb-PC5-44800_691092.html"
+    },
+    {
+      "offer_id": "034528",
+      "mpn": "R9416G3206S2S-U",
+      "file": "assets/034528/034528-02.jpg",
+      "sha256": "fb69cb2956ba2e159f0f8f8f47f4bbc8e43116a99b4254d119e44579b69a1520",
+      "source_url": "https://static.nix.ru/images/amd-r9416g3206s2s-u-5034412245.jpeg?good_id=503441&width=500&height=500&view_id=2245",
+      "source_page_url": "https://www.nix.ru/autocatalog/memory_modules_AMD/R9416G3206S2S-U-AMD-Radeon-DDR4-16GB-3200Mhz-So-DIMM-12V-RTL_503441.html"
+    },
+    {
+      "offer_id": "065107",
+      "mpn": "KS3200D4N12032G",
+      "file": "assets/065107/065107-02.jpg",
+      "sha256": "ec06f5635e636f645310205fa5c654971bb8aaa196678642467d7f6614531705",
+      "source_url": "https://static.nix.ru/images/kingspec-ks3200d4n12032g-7087242245.jpg?good_id=708724&width=500&height=500&view_id=2245",
+      "source_page_url": "https://www.nix.ru/autocatalog/memory_modules_brandname/KingSpec-KS3200D4N12032G-DDR4-DIMM-32Gb-PC4-25600_708724.html"
+    },
+    {
+      "offer_id": "065047",
+      "mpn": "CB8GS3200",
+      "file": "assets/065047/065047-02.jpg",
+      "sha256": "6a63d9afc89f37851d7a22025310ea78a962f024c6a4d054550b50aadfeea0c7",
+      "source_url": "https://static.nix.ru/images/crucial-cb8gs3200-8639172245.jpg?good_id=863917&width=500&height=500&view_id=2245",
+      "source_page_url": "https://www.nix.ru/autocatalog/memory_modules_Crucial/Crucial-CB8GS3200-DDR4-SODIMM-8Gb-PC4-25600-for-NoteBook_863917.html"
+    },
+    {
+      "offer_id": "035119",
+      "mpn": "KS3200D4N12008G",
+      "file": "assets/035119/035119-02.jpg",
+      "sha256": "d6837d4bbd2be483fe3a24f92dc27d27daf58383a0a8139cb96ca6efeb99bda0",
+      "source_url": "https://static.nix.ru/images/kingspec-ks3200d4n12008g-7087162245.jpg?good_id=708716&width=500&height=500&view_id=2245",
+      "source_page_url": "https://www.nix.ru/autocatalog/memory_modules_brandname/KingSpec-KS3200D4N12008G-DDR4-SODIMM-8Gb-PC4-25600_708716.html"
+    },
+    {
+      "offer_id": "043521",
+      "mpn": "NTBSD4N32SP-08",
+      "file": "assets/043521/043521-03.jpg",
+      "sha256": "c2ff1e6dda5fa85c76838c428c58ecc1e2503983e619d119ff2c840e5bb4f08b",
+      "source_url": "https://static.nix.ru/images/netac-ntbsd4n32sp-08-5333642258.jpg?good_id=533364&width=500&height=500&view_id=2258",
+      "source_page_url": "https://www.nix.ru/autocatalog/memory_modules_netac/Netac-Basic-NTBSD4N32SP-08-DDR4-SODIMM-8Gb-PC4-25600-CL22-for-NoteBook_533364.html"
+    },
+    {
+      "offer_id": "065161",
+      "mpn": "M471A1G44CB0-CWE",
+      "file": "assets/065161/065161-02.jpg",
+      "sha256": "056781152828a630ff41a697a206a1a43736be58a76ea2ef0124f98982b4362b",
+      "source_url": "https://static.nix.ru/images/samsung-m471-a1g44cb0-cwe-7666282245.jpg?good_id=766628&width=500&height=500&view_id=2245",
+      "source_page_url": "https://www.nix.ru/autocatalog/memory_modules_samsung/Original-SAMSUNG-M471A1G44CB0-CWE-DDR4-SODIMM-8Gb-PC4-25600-for-NoteBook_766628.html"
+    }
+  ]
+}
