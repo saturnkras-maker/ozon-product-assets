@@ -1,0 +1,321 @@
+{
+  "schema_version": "ozon-computer-assets-v1",
+  "count": 35,
+  "items": [
+    {
+      "offer_id": "065046",
+      "mpn": "DQ.BSVCD.002",
+      "file": "assets/065046/065046.jpg",
+      "sha256": "97fdaa635a150bf10b4b7a1416109ab938e778f956fd391c5d7e76597d832b87",
+      "source_product_url": "https://www.kns.ru/product/monoblok-acer-aspire-s27b-ugmtl-u-dq-bsvcd-002/",
+      "source_image_url": "https://cdn.kns.ru/linkpics/acer-aspire-s27b-ugmtl-u-dq-bsfcd-003_kod_1043611.jpg",
+      "nix_package_url": "https://www.nix.ru/autocatalog/computers_all_in_one_acer/DQBSVCD002-Acer-Aspire-S27B-Intel-Core-Ultra-5-115U-16Gb-SSD512Gb-27-IPS-QHD-2560x1440-120Hz-NoOS-White_1004103.html"
+    },
+    {
+      "offer_id": "065043",
+      "mpn": "83KA0015RK",
+      "file": "assets/065043/065043.jpg",
+      "sha256": "76e6199588d88528b980f1e6d152f8e36455b973945e4d839fc419f07de219a5",
+      "source_product_url": "https://www.kns.ru/product/noutbuk-lenovo-ideapad-slim-3-15ahp10-83ka0015rk/",
+      "source_image_url": "https://cdn.kns.ru/linkpics/lenovo-ideapad-slim-3-15ahp10-83ka0015rk_kod_975032.jpg",
+      "nix_package_url": "https://www.nix.ru/autocatalog/notebook_lenovo/Lenovo-IdeaPad-Slim-3-15AHP10-83KA0015RK-Ryzen-5-8540U-16-512SSD-WiFi-BT-noOS-153_893703.html"
+    },
+    {
+      "offer_id": "063816",
+      "mpn": "9S7-15S111-1072",
+      "file": "assets/063816/063816.jpg",
+      "sha256": "df510f8a7c6212582c6dfe110d3ab2140a235402d33b9ad56b7802458487bdec",
+      "source_product_url": "https://www.kns.ru/product/noutbuk-msi-modern-15-f1mg-1072xru/",
+      "source_image_url": "https://cdn.kns.ru/linkpics/msi-modern-15-f1mg-1200ru_kod_1060897.jpg",
+      "nix_package_url": "https://www.nix.ru/autocatalog/notebook_msi/MSI-Modern-15-F1MG-1072RU-9S7-15S111-1072_981071.html"
+    },
+    {
+      "offer_id": "064134",
+      "mpn": "NH.U24AA.003",
+      "file": "assets/064134/064134.jpg",
+      "sha256": "741f39a3bed37683a30394d1da974f2b6515ec5dea83bf418c93cba976a7ace3",
+      "source_product_url": "https://www.kns.ru/product/noutbuk-acer-nitro-v-16s-anv16s-71-7771/",
+      "source_image_url": "https://cdn.kns.ru/linkpics/acer-nitro-v-16s-anv16s-71-55x8_kod_1024759.jpg",
+      "nix_package_url": "https://www.nix.ru/autocatalog/acer/acer_notebook/Acer-Nitro-V-16S-ANV16S-71-7771-NHU24AA003-Core-7-240H-16-1TbSSD-RTX5060-WiFi-BT-Win11-16_983206.html"
+    },
+    {
+      "offer_id": "063603",
+      "mpn": "FLTP-5i3-8256-w",
+      "file": "assets/063603/063603.jpg",
+      "sha256": "dfce2929f784543c59967321562e99df2a779b636058ad5c29c5a53bd17f2909",
+      "source_product_url": "https://www.kns.ru/product/noutbuk-fplus-flaptop-i-fltp-5i3-8256-w/",
+      "source_image_url": "https://cdn.kns.ru/linkpics/fplus-flaptop-i-fltp-5i3-16512-w-0-v1.jpg",
+      "nix_package_url": "https://www.nix.ru/autocatalog/notebook_other/f-plus-FLTP-5i3-8256-w-i3-1215U-8-256SSD-WiFi-BT-Win11-156_697299.html"
+    },
+    {
+      "offer_id": "065175",
+      "mpn": "NX.EJAER.008",
+      "file": "assets/065175/065175.jpg",
+      "sha256": "76367fcbe110882d32aa4bfea74f0f89c18c2bfffa3e2f28b92947fda7536fb7",
+      "source_product_url": "https://www.kns.ru/product/noutbuk-acer-extensa-15-ex215-57-56zn/",
+      "source_image_url": "https://cdn.kns.ru/linkpics/acer-extensa-15-ex215-57-593b_kod_981539.jpg",
+      "nix_package_url": "https://www.nix.ru/autocatalog/acer/acer_notebook/Acer-Extensa-15-EX215-57-56ZN-NXEJAER008-i5-1334U-16-512SSD-WiFi-BT-noOS-156_968889.html"
+    },
+    {
+      "offer_id": "065269",
+      "mpn": "B5EQ3UA",
+      "file": "assets/065269/065269.jpg",
+      "sha256": "ede4c83e5951d3ec83c4d7cac5b626477078d00ed49c0d11aa435e3a65822803",
+      "source_product_url": "https://www.kns.ru/product/noutbuk-hp-victus-15-fa2082wm/",
+      "source_image_url": "https://cdn.kns.ru/linkpics/hp-victus-15-fa2082wm_kod_1032586.jpg",
+      "nix_package_url": "https://www.nix.ru/autocatalog/hp/hp_compaq_notebook/HP-Victus-15-fa2082wm-B5EQ3UA-ABA-i5-13420H-16-512SSD-RTX4050-WiFi-BT-Win11-156_966466.html"
+    },
+    {
+      "offer_id": "065189",
+      "mpn": "NX.EJBER.00A",
+      "file": "assets/065189/065189.jpg",
+      "sha256": "76367fcbe110882d32aa4bfea74f0f89c18c2bfffa3e2f28b92947fda7536fb7",
+      "source_product_url": "https://www.kns.ru/product/noutbuk-acer-extensa-15-ex215-57-597h/",
+      "source_image_url": "https://cdn.kns.ru/linkpics/acer-extensa-15-ex215-57-593b_kod_981539.jpg",
+      "nix_package_url": "https://www.nix.ru/autocatalog/acer/acer_notebook/Acer-Extensa-15-EX215-57-597H-NXEJBER00A-i5-13420H-32-1TbSSD-WiFi-BT-noOS-156_962626.html"
+    },
+    {
+      "offer_id": "062706",
+      "mpn": "NX.EJBER.009",
+      "file": "assets/062706/062706.jpg",
+      "sha256": "76367fcbe110882d32aa4bfea74f0f89c18c2bfffa3e2f28b92947fda7536fb7",
+      "source_product_url": "https://www.kns.ru/product/noutbuk-acer-extensa-15-ex215-57-512n/",
+      "source_image_url": "https://cdn.kns.ru/linkpics/acer-extensa-15-ex215-57-593b_kod_981539.jpg",
+      "nix_package_url": "https://www.nix.ru/autocatalog/acer/acer_notebook/Acer-Extensa-15-EX215-57-512N-NXEJBER009-i5-13420H-32-512SSD-WiFi-BT-noOS-156_962625.html"
+    },
+    {
+      "offer_id": "064382",
+      "mpn": "NX.KHJER.007",
+      "file": "assets/064382/064382.jpg",
+      "sha256": "f99fd6698c2e0f4352e669358c8c8753bfa618da8599a788cb8445980b1629ec",
+      "source_product_url": "https://www.kns.ru/product/noutbuk-acer-aspire-5-a515-58p-759a/",
+      "source_image_url": "https://cdn.kns.ru/linkpics/acer-aspire-5-a515-58p-36ba_kod_866911-v1.jpg",
+      "nix_package_url": "https://www.nix.ru/autocatalog/acer/acer_notebook/Acer-Aspire-5-15-A515-58P-759A-NXKHJER007-i7-1355U-16-512SSD-WiFi-BT-noOS-156_860708.html"
+    },
+    {
+      "offer_id": "064380",
+      "mpn": "90NB10T1-M01890",
+      "file": "assets/064380/064380.jpg",
+      "sha256": "1eb45f1bd06339d4a2f21e6977945288d62fe9e7c51bcb77b98ac699614d2c5d",
+      "source_product_url": "https://www.kns.ru/product/noutbuk-asus-vivobook-15-x1502va-bq924-90nb10t1-m01890/",
+      "source_image_url": "https://cdn.kns.ru/linkpics/asus-vivobook-15-x1502va-bq924-90nb10t1-m01890_kod_974314.jpg",
+      "nix_package_url": "https://www.nix.ru/autocatalog/asus/asus_notebook/ASUS-Vivobook-X1502VA-90NB10T1-M01890-i7-13620H-16-512SSD-WiFi-BT-noOS-156_878444.html"
+    },
+    {
+      "offer_id": "065206",
+      "mpn": "NX.EJBER.004",
+      "file": "assets/065206/065206.jpg",
+      "sha256": "76367fcbe110882d32aa4bfea74f0f89c18c2bfffa3e2f28b92947fda7536fb7",
+      "source_product_url": "https://www.kns.ru/product/noutbuk-acer-extensa-15-ex215-57-75td/",
+      "source_image_url": "https://cdn.kns.ru/linkpics/acer-extensa-15-ex215-57-593b_kod_981539.jpg",
+      "nix_package_url": "https://www.nix.ru/autocatalog/acer/acer_notebook/NXEJBER004-156-IPS-FHD-Acer-Extensa-EX215-57-75TD-silver-Core-i7-13620H-16Gb-512Gb-SSD-VGA-int-noOS_979950.html"
+    },
+    {
+      "offer_id": "064383",
+      "mpn": "NX.EJFER.001",
+      "file": "assets/064383/064383.jpg",
+      "sha256": "76367fcbe110882d32aa4bfea74f0f89c18c2bfffa3e2f28b92947fda7536fb7",
+      "source_product_url": "https://www.kns.ru/product/noutbuk-acer-extensa-15-ex215-57-757g/",
+      "source_image_url": "https://cdn.kns.ru/linkpics/acer-extensa-15-ex215-57-593b_kod_981539.jpg",
+      "nix_package_url": "https://www.nix.ru/autocatalog/acer/acer_notebook/Acer-Extensa-15-EX215-57-757G-NXEJFER001-i7-13620H-32-1TbSSD-WiFi-BT-noOS-156_962624.html"
+    },
+    {
+      "offer_id": "065271",
+      "mpn": "71005000256",
+      "file": "assets/065271/065271.jpg",
+      "sha256": "892ce93d1ec78f41118e486ee0424c3760f0d3e59a6f47d383a71ee84b435864",
+      "source_product_url": "https://www.kns.ru/product/noutbuk-tecno-megabook-k15sda-71005000256/",
+      "source_image_url": "https://cdn.kns.ru/linkpics/tecno-megabook-k15sda-71003300493_kod_989468.jpg",
+      "nix_package_url": "https://www.nix.ru/autocatalog/notebook_other/TECNO-MEGABOOK-K15SDA-112621-Ryzen-5-7430U-16-1TbSSD-WiFi-BT-Win11-156_963876.html"
+    },
+    {
+      "offer_id": "065165",
+      "mpn": "NX.DJZEX.001",
+      "file": "assets/065165/065165.jpg",
+      "sha256": "3ed20e3727e667cc1b3611e2413d99520639d0395df42efe429b0b9d3cd3b738",
+      "source_product_url": "https://www.kns.ru/product/noutbuk-acer-aspire-lite-al15-44p-r01t/",
+      "source_image_url": "https://cdn.kns.ru/linkpics/acer-aspire-lite-al15-44p-r01t_kod_1043275.jpg",
+      "nix_package_url": "https://www.nix.ru/autocatalog/acer/acer_notebook/NXDJZEX001-Acer-Aspire-Lite-AL15-44P-R01T-156-Ryzen-5-7430U-16-GB-1920x1080-IPS-512-GB-serebristyj-bez-OS_987856.html"
+    },
+    {
+      "offer_id": "064299",
+      "mpn": "71005000517",
+      "file": "assets/064299/064299.jpg",
+      "sha256": "871470117e70f627bc02464c83daf8e9e46d1ffeb6069f469b23684d3fbf22e4",
+      "source_product_url": "https://www.kns.ru/product/noutbuk-tecno-megabook-k15sfa-71005000517/",
+      "source_image_url": "https://cdn.kns.ru/linkpics/tecno-megabook-k15sfa-71005000540_kod_1046704.jpg",
+      "nix_package_url": "https://www.nix.ru/autocatalog/notebook_other/71005000517-Noutbuk-Tecno-MegaBook-K15SFA-Ryzen-5-7535HS-8Gb-SSD512Gb-AMD-Radeon-660M-156-IPS-FHD-1920x1080-Windows_1000603.html"
+    },
+    {
+      "offer_id": "063327",
+      "mpn": "82RN008LRK",
+      "file": "assets/063327/063327.jpg",
+      "sha256": "1bb63e1beb29e7be2d8bb5549a3b0a3d00993e8a254cd7f8db65d0dbbcbdc8e3",
+      "source_product_url": "https://www.kns.ru/product/noutbuk-lenovo-ideapad-3-15aba7-82rn008lrk/",
+      "source_image_url": "https://cdn.kns.ru/linkpics/lenovo-ideapad-3-15aba7-82rn00afrk-0-v1.jpg",
+      "nix_package_url": "https://www.nix.ru/autocatalog/notebook_lenovo/Lenovo-IdeaPad-3-15ABA7-82RN008LRK-Ryzen-7-5825U-8-256SSD-WiFi-BT-NoOS-156_782836.html"
+    },
+    {
+      "offer_id": "065177",
+      "mpn": "NX.DLQEM.001",
+      "file": "assets/065177/065177.jpg",
+      "sha256": "b2ad014d1745dcf576a7c5ae53749b4e4baca139c8657680b1b30962cc6955d4",
+      "source_product_url": "https://www.kns.ru/product/noutbuk-acer-aspire-lite-al15-45p-r1uj-nx-dlqem-001-win11p/",
+      "source_image_url": "https://cdn.kns.ru/linkpics/acer-aspire-lite-al15-45p-r1uj_kod_1052296.jpg",
+      "nix_package_url": "https://www.nix.ru/autocatalog/acer/acer_notebook/NXDLQEM001-156-Acer-Aspire-Lite-15-AL15-45P-R1UJ-Ryzen-7-5825U-16Gb-512Gb-AMDRadeonGraphics-FHD-No_991574.html"
+    },
+    {
+      "offer_id": "065268",
+      "mpn": "B8AX0EA",
+      "file": "assets/065268/065268.jpg",
+      "sha256": "85b7e34e2ac3c2281a95697009a7b3f8df834253e54cc0f0c100f5ebf2f2496c",
+      "source_product_url": "https://www.kns.ru/product/noutbuk-hp-15-fc0024ny/",
+      "source_image_url": "https://cdn.kns.ru/linkpics/hp-15-fc0006nia_kod_853093-v1.jpg",
+      "nix_package_url": "https://www.nix.ru/autocatalog/hp/hp_compaq_notebook/HP-15-fc0024ny-B8AX0EA-B1R-Ryzen-7-7730U-16-512SSD-WiFi-BT-noOS-156_876350.html"
+    },
+    {
+      "offer_id": "063899",
+      "mpn": "ZN.N01SI.03U",
+      "file": "assets/063899/063899.jpg",
+      "sha256": "f7fd3a69440092864d98e45039b97d6e29a6188e915fb6db8d248786efc4c0bb",
+      "source_product_url": "https://www.kns.ru/product/noutbuk-acer-aspire-3-a325-42-zn-n01si-03u/",
+      "source_image_url": "https://cdn.kns.ru/linkpics/acer-aspire-3-a325-42-zn-n01si-03u_kod_1056583.jpg",
+      "nix_package_url": "https://www.nix.ru/autocatalog/acer/acer_notebook/ZNN01SI03U-Acer-Aspire-3-A325-42-AMD-Ryzen-7-7730U-16Gb-1-16-D4-SSD512Gb-UMA-156-IPS-FHD-NoOS-Silver-178kg_992611.html"
+    },
+    {
+      "offer_id": "063475",
+      "mpn": "83JT0000US",
+      "file": "assets/063475/063475.jpg",
+      "sha256": "b2d86069f76697cb1215661c89dcb9c63800bd9377fa5534e795c4cec7af6f31",
+      "source_product_url": "https://www.kns.ru/product/noutbuk-lenovo-yoga-7-2-in-1-16ill10-83jt0000us/",
+      "source_image_url": "https://cdn.kns.ru/linkpics/lenovo-yoga-7-2-in-1-16ill10-83jt0028rk_kod_1013862.jpg",
+      "nix_package_url": "https://www.nix.ru/autocatalog/notebook_lenovo/Lenovo-Yoga-7-2-in-1-16ILL10-83JT0000US-Ultra-5-226V-16-512SSD-WiFi-BT-Win11-16_979294.html"
+    },
+    {
+      "offer_id": "063655",
+      "mpn": "NX.D3UCD.002",
+      "file": "assets/063655/063655.jpg",
+      "sha256": "637e646082c14c641ba862ac7dbd3786f853615d90327f3f603388bf21fcfd3e",
+      "source_product_url": "https://www.kns.ru/product/noutbuk-acer-swift-lite-sfl16-51m-54bl/",
+      "source_image_url": "https://cdn.kns.ru/linkpics/acer-swift-lite-sfl16-51m-54bl_kod_1002992.jpg",
+      "nix_package_url": "https://www.nix.ru/autocatalog/acer/acer_notebook/Noutbuk-Swift-Lite-16-WUXGA-1920x1200-1000-1-Intel-Core-5-115U-16-512GB-LPDDR5-NXD3UCD002-ACER_924267.html"
+    },
+    {
+      "offer_id": "065264",
+      "mpn": "NX.DJ8CD.001",
+      "file": "assets/065264/065264.jpg",
+      "sha256": "7ec0dbafc55dcf5b61b675b245a939e2e76bbf33b4284d145fcf717696b55d6b",
+      "source_product_url": "https://www.kns.ru/product/noutbuk-acer-aspire-lite-al16-54p-59za/",
+      "source_image_url": "https://cdn.kns.ru/linkpics/acer-aspire-lite-al16-54p-30qy_kod_1009963.jpg",
+      "nix_package_url": "https://www.nix.ru/autocatalog/acer/acer_notebook/Acer-Aspire-Lite-AL16-54P-59ZA-NXDJ8CD001_955690.html"
+    },
+    {
+      "offer_id": "065045",
+      "mpn": "90NB1671-M007N0",
+      "file": "assets/065045/065045.jpg",
+      "sha256": "dd0a3b9b7f5ee3913a1021576df7891bb610f5c6d0c8cf8d6244d0bbfaedfb61",
+      "source_product_url": "https://www.kns.ru/product/noutbuk-asus-vivobook-s16-s3607va-rp096-90nb1671-m007n0/",
+      "source_image_url": "https://cdn.kns.ru/linkpics/asus-vivobook-s16-s3607va-rp078-90nb1671-m005x0_kod_976691.jpg",
+      "nix_package_url": "https://www.nix.ru/autocatalog/asus/asus_notebook/Noutbuk-Asus-Vivobook-S16-S3607VA-RP096-Cool-Silver-90NB1671-M007N0_1006907.html"
+    },
+    {
+      "offer_id": "064158",
+      "mpn": "83GS00R9RK",
+      "file": "assets/064158/064158.jpg",
+      "sha256": "3b8c790e2ee8a82e261a0bdd1eba2c5b2ee82dce08af2f87f56c45bffc39b2ac",
+      "source_product_url": "https://www.kns.ru/product/noutbuk-lenovo-loq-15iax9-83gs00r9rk/",
+      "source_image_url": "https://cdn.kns.ru/linkpics/lenovo-loq-15iax9-83gs005nrk_kod_879444.jpg",
+      "nix_package_url": "https://www.nix.ru/autocatalog/notebook_lenovo/83GS00R9RK-156-IPS-FHD-LENOVO-LOQ-15IAX9-grey-Core-i5-12450HX-24Gb-512Gb-SSD-3050-6Gb-noOS_943602.html"
+    },
+    {
+      "offer_id": "065272",
+      "mpn": "71005000262",
+      "file": "assets/065272/065272.jpg",
+      "sha256": "5aaa15e0c4aee3a5d31cb4ee6e949124c0198f4b76963967f0cf1693fae7f80c",
+      "source_product_url": "https://www.kns.ru/product/noutbuk-tecno-megabook-k16sda-71005000262/",
+      "source_image_url": "https://cdn.kns.ru/linkpics/tecno-megabook-k16sda-71003300343_kod_974357.jpg",
+      "nix_package_url": "https://www.nix.ru/autocatalog/notebook_other/71005000262-Noutbuk-Tecno-MegaBook-K16SDA-Ryzen-5-7430U-16Gb-SSD1Tb-AMD-Radeon-Graphics-16-IPS-WUXGA-1920x1200-Windo_963879.html"
+    },
+    {
+      "offer_id": "064525",
+      "mpn": "71005000263",
+      "file": "assets/064525/064525.jpg",
+      "sha256": "5aaa15e0c4aee3a5d31cb4ee6e949124c0198f4b76963967f0cf1693fae7f80c",
+      "source_product_url": "https://www.kns.ru/product/noutbuk-tecno-megabook-k16sda-71005000263/",
+      "source_image_url": "https://cdn.kns.ru/linkpics/tecno-megabook-k16sda-71003300343_kod_974357.jpg",
+      "nix_package_url": "https://www.nix.ru/autocatalog/notebook_other/TECNO-MEGABOOK-K16SDA-112751-Ryzen-5-7430U-16-512SSD-WiFi-BT-Win11-16_964315.html"
+    },
+    {
+      "offer_id": "064928",
+      "mpn": "71005000406",
+      "file": "assets/064928/064928.jpg",
+      "sha256": "d43142a24e1129843b6498aab8228078319a98a33657d245a1ba7f232cce12a0",
+      "source_product_url": "https://www.kns.ru/product/noutbuk-tecno-megabook-k16sfa-71005000406/",
+      "source_image_url": "https://cdn.kns.ru/linkpics/tecno-megabook-k16sfa-71005000409_kod_1046697.jpg",
+      "nix_package_url": "https://www.nix.ru/autocatalog/notebook_other/TECNO-MEGABOOK-K16SFA-110801-Ryzen-5-7535HS-16-512SSD-WiFi-BT-Win11-16_1007635.html"
+    },
+    {
+      "offer_id": "064929",
+      "mpn": "71005000518",
+      "file": "assets/064929/064929.jpg",
+      "sha256": "d43142a24e1129843b6498aab8228078319a98a33657d245a1ba7f232cce12a0",
+      "source_product_url": "https://www.kns.ru/product/noutbuk-tecno-megabook-k16sfa-71005000518/",
+      "source_image_url": "https://cdn.kns.ru/linkpics/tecno-megabook-k16sfa-71005000409_kod_1046697.jpg",
+      "nix_package_url": "https://www.nix.ru/autocatalog/notebook_other/TECNO-MEGABOOK-K16SFA-116865-Ryzen-5-7535HS-8-512SSD-WiFi-BT-Win11-16_1000607.html"
+    },
+    {
+      "offer_id": "065044",
+      "mpn": "83KB000BRK",
+      "file": "assets/065044/065044.jpg",
+      "sha256": "95f07a920f9d887ea0ce57c683c6df1dfae3a2d149df24cb5fe662df83399873",
+      "source_product_url": "https://www.kns.ru/product/noutbuk-lenovo-ideapad-slim-3-16ahp10-83kb000brk/",
+      "source_image_url": "https://cdn.kns.ru/linkpics/lenovo-ideapad-slim-3-16ahp10-83kb000drk_kod_1014234.jpg",
+      "nix_package_url": "https://www.nix.ru/autocatalog/notebook_lenovo/Lenovo-IdeaPad-Slim-3-16AHP10-83KB000BRK-Ryzen-5-8640HS-16-512SSD-WiFi-BT-noOS-16_962072.html"
+    },
+    {
+      "offer_id": "065143",
+      "mpn": "X16C-R72556",
+      "file": "assets/065143/065143.jpg",
+      "sha256": "7da21608063c8e69358ee554664980210f0a8cef0f739ffe103f7b14d44f6758",
+      "source_product_url": "https://www.kns.ru/product/noutbuk-maibenben-x16c-r725560f44hg4e10/",
+      "source_image_url": "https://cdn.kns.ru/linkpics/maibenben-x16c-r725550f44hg4e10_kod_1078112.jpg",
+      "nix_package_url": "https://www.nix.ru/autocatalog/notebook_maibenben/X16C-R725561F4RHG4E10-16-MAIBENBEN-X16C-seryj-angl-rus-IPS-7-H-255-RAM-16-GB-SSD-512-GB-5060-8-GB-Win11-Home_990084.html"
+    },
+    {
+      "offer_id": "064177",
+      "mpn": "21M5S09E00",
+      "file": "assets/064177/064177.jpg",
+      "sha256": "294b9abf3e81d1720e253333ac6ac1abb289654d4702c87df7a16cbf90d1f478",
+      "source_product_url": "https://www.kns.ru/product/noutbuk-lenovo-thinkpad-e16-gen-2-21m5s09e00/",
+      "source_image_url": "https://cdn.kns.ru/linkpics/lenovo-thinkpad-e16-gen-2-21m5s03a00_kod_923062.jpg",
+      "nix_package_url": "https://www.nix.ru/autocatalog/notebook_lenovo/Lenovo-ThinkPad-E16-Gen-2-21M5S09E00_874543.html"
+    },
+    {
+      "offer_id": "064281",
+      "mpn": "A38BGET",
+      "file": "assets/064281/064281.jpg",
+      "sha256": "38421ed1f49ff4e671853a41a68ea8421325d0f306e8a41632ec3c3ef64d1acc",
+      "source_product_url": "https://www.kns.ru/product/noutbuk-hp-probook-460-g11-a38bget-eng/",
+      "source_image_url": "https://cdn.kns.ru/linkpics/hp-probook-460-g11-a22zzea-eng_kod_899097.jpg",
+      "nix_package_url": "https://www.nix.ru/autocatalog/hp/hp_compaq_notebook/HP-ProBook-460-G11-A38BGET-BH5_873669.html"
+    },
+    {
+      "offer_id": "065014",
+      "mpn": "M17A-R574UM0F3RHU4EB1",
+      "file": "assets/065014/065014.jpg",
+      "sha256": "3dcf482ccc27f618b0e54145f1ae62328ddc844825e8880b2fcb93f02d9f0f7a",
+      "source_product_url": "https://www.kns.ru/product/noutbuk-maibenben-m17a-r574um0f3rhu4eb1/",
+      "source_image_url": "https://cdn.kns.ru/linkpics/maibenben-m17a-r343umb1slure3_kod_978144.jpg",
+      "nix_package_url": "https://www.nix.ru/autocatalog/notebook_maibenben/M17A-R574UM0F3RHU4EB1-Noutbuk-Maibenben-M17A-R574UM-Ryzen-5-7430U-16Gb-SSD512Gb-AMD-Radeon-Graphics-173-IPS-FHD-1920_1018042.html"
+    },
+    {
+      "offer_id": "064246",
+      "mpn": "17NBP4503_G3H",
+      "file": "assets/064246/064246.jpg",
+      "sha256": "cc7cdd0b79ca522ba8482f5f69eb556d2a42a8e84faf9ef47e2f2caa4d1072be",
+      "source_product_url": "https://www.kns.ru/product/noutbuk-irbis-smartbook-17nbp4503-g3h/",
+      "source_image_url": "https://cdn.kns.ru/linkpics/irbis-smartbook-17nbp4503-g3h_kod_1071285.jpg",
+      "nix_package_url": "https://www.nix.ru/autocatalog/notebook_irbis/17NBP4503-G3H-IRBIS-SmartBook-17NBP4503-173-1920x1080-IPS-i5-13600H-16Gb-512Gb-Grey-Win11Pro_1029814.html"
+    }
+  ]
+}
